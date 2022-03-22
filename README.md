@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software/website solutions.
 - 🎓 &nbsp; Studied Applied Accounting from Institute of Public Administration & Management (IPAM).
 - 💼 &nbsp; Working as a Business Performance Analyst at FBNBank Sierra Leone.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Website Development & Design.
+- 🌱 &nbsp; Currently learning Node.js, TypeScript, and Dynamics of Heroku.
 - ✍️ &nbsp; Pursuing Graphic Design and Software Installation as hobbies/side hustles.
 
 
@@ -40,8 +40,6 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
-  
-Currently learning Node.js, TypeScript, and Dynamics of Heroku.
 
 
 ## 🚧 My Projects
@@ -69,6 +67,17 @@ Currently learning Node.js, TypeScript, and Dynamics of Heroku.
 [![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?&username=Unis434&layout=compact&hide_border=true&langs_count=8&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://unis434.github.io/Personal_Resume/index.html"><img alt="Website" src="https://img.shields.io/badge/Website-Personal_Resume-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Unisa%20Kamara-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/unis_k/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Unis_k-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:unisk434@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-unisk434@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+
 <!--
 **Unis434/Unis434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
