@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software/website solutions.
 - 🎓 &nbsp; Studied Applied Accounting from Institute of Public Administration & Management (IPAM).
 - 💼 &nbsp; Working as a Business Performance Analyst at FBNBank Sierra Leone.
-- 🌱 &nbsp; Currently learning Node.js, express.js, and MongoDB.
+- 🌱 &nbsp; Currently learning Node.js, express.js, and Heroku deployment.
 - ✍️ &nbsp; Pursuing Graphic Design and Accounting Software(QuiickBooks) Installation and Database setup as hobbies/side hustles.
 
 
