@@ -44,7 +44,7 @@
 
 ## 🚧 My Projects
 
-- [⏳ The Accountant ](https://github.com/Unis434/the-accountant). - Balance ethics and corruption to keep your position and get things done. Whatever happens, don't get caught! Every example in the game is based on real cases.. [Template](https://github.com/Unis434/the-accountant).
+- [⏳ The Accountant ](https://github.com/Unis434/the-accountant). - Balance ethics and corruption to keep your position and get things done. Whatever happens, don't get caught! Every example in the game is based on real cases. [Template](https://github.com/Unis434/the-accountant).
 
 - [⏳ SierraEconomics ](https://github.com/Unis434/Freetown-City-Council-Dashboard). - The SierraEconomics API provides you with direct access to 300.000 economic indicators, exchange rates, stock market indexes, government bond yields and commodity prices. Providing several request methods to query our databases, with samples available in different programming languages, it is the best way to export data in XML, CSV or JSON format. The API can be used to feed a custom developed application, a public website or just off-the-shelf software like Microsoft Excel. [Template](https://unis434.github.io/SierraEconomics/).
 
