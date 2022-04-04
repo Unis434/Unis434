@@ -9,7 +9,7 @@
 - ✍️ &nbsp; Pursuing Graphic Design and Accounting Software(QuiickBooks) Installation and Database setup as hobbies/side hustles.
 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;My Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
