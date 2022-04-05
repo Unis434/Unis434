@@ -3,6 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 
+
+
 - 🤔 &nbsp; Exploring new technologies and developing software/website solutions.
 - 🎓 &nbsp; Studied BSc. Honors In Applied Accounting at the Institute of Public Administration & Management (IPAM).
 - 💼 &nbsp; Working as a Business Performance Analyst at FBNBank Sierra Leone.
