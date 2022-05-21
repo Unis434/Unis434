@@ -55,15 +55,17 @@ JSON         22 mins         ▓░░░░░░░░░░░░░░░░
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="hhttps://www.buymeacoffee.com/unisk434" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="hhttps://www.buymeacoffee.com/unisk434"> 
+  <img align="left" alt="Buy Me A Coffee" width="150" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" />
+</a>
 
 🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
+<!-- TODO-LIST:START -->
 🏆  7,995 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 473 tasks so far           
 ⏳  Longest streak is 20 days
-<!-- TODO-IST:END -->
+<!-- TODO-LIST:END -->
 
 
 📈 my github stats
