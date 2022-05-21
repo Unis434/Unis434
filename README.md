@@ -2,14 +2,14 @@
 <a href="https://www.instagram.com/unis_k/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="h[https://discord.gg/T8g6CwQW](https://discord.gg/RmYedwJRxG)">
+<a href="https://discord.gg/RmYedwJRxG">
   <img align="left" alt="Unisk434's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/Corporate_G_">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Unis's Twitter| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/unisk434/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Unis's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=unis434.unis434)
@@ -53,9 +53,9 @@ JSON         22 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 👉buymeacoffee.com/?via=unisk434👈
+if you like what i do, maybe consider buying me a coffee/tea 👉https://buymeacoffee.com/?via=unisk434👈
 
-<a href="buymeacoffee.com/?via=unisk434" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://buymeacoffee.com/?via=unisk434" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
