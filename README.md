@@ -23,8 +23,8 @@ I am also an Accountant, Business Performance Analyst, and an Open-Source enthus
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 Need any freelance work? Do reach, [email](mailto:unisk434@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help;
+- 💼 Need any freelance work? [Please reach out](mailto:unisk434@gmail.com) :)
+- 💬 Ask me about anything, I am happy to help.
 
 **languages and tools:**  
 
@@ -53,7 +53,7 @@ Typescript   22 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-if you like what I do, maybe consider buying me a coffee/tea.
+If you like what I do, maybe consider buying me a coffee/tea.
 
 <a href="https://buymeacoffee.com/?via=unisk434" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
@@ -62,7 +62,7 @@ if you like what I do, maybe consider buying me a coffee/tea.
 🏆  7,995 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 473 tasks so far           
-⏳  Longest streak is 10 days
+⏳  Longest streak is 20 days
 <!-- TODO-IST:END -->
 
 
