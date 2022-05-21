@@ -43,17 +43,17 @@ I am also an Accountant, Business Performance Analyst, and an Open-Source enthus
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   3 hrs 39 mins   ███████▒░░░░░░░░░░░░░░░░░   29.79 %
-MDX          3 hrs 22 mins   ███████░░░░░░░░░░░░░░░░░░   27.41 %
-JavaScript   2 hrs 48 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.91 %
+JavaScript   3 hrs 39 mins   ███████▒░░░░░░░░░░░░░░░░░   29.79 %
+HTML         3 hrs 22 mins   ███████░░░░░░░░░░░░░░░░░░   27.41 %
+JSON         2 hrs 48 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.91 %
 SCSS         1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-HTML         36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-JSON         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Python       36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Typescript   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 👉https://buymeacoffee.com/?via=unisk434👈
+if you like what i do, maybe consider buying me a coffee/tea 👉<a href="https://buymeacoffee.com/?via=unisk434" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>👈
 
 <a href="https://buymeacoffee.com/?via=unisk434" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
