@@ -40,6 +40,8 @@ I am also an Accountant, Business Performance Analyst, and an Open-Source enthus
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+  <br>
+
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
@@ -51,6 +53,7 @@ SCSS         1 hr 6 mins     ██▒░░░░░░░░░░░░░░
 Python       36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
 Typescript   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
+  <br>
 
 <!--END_SECTION:waka-->
 
