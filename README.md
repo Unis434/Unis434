@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there 
 <a href="https://www.instagram.com/unis_k/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -22,6 +22,7 @@ I am also an Accountant, Business Performance Analyst, and an Open-Source enthus
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <br>
   
 - 💼 Need any freelance work? [Please reach out](mailto:unisk434@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help.
