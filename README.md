@@ -8,7 +8,7 @@ I am also an Accountant, Business Performance Analyst, and an Open-Source enthus
 - 🤔 &nbsp; Exploring new technologies and developing software/website solutions.
 - 🎓 &nbsp; Studied BSc. Honors In Applied Accounting at the Institute of Public Administration & Management (IPAM).
 - 💼 &nbsp; Working as a Business Performance Analyst at FBNBank Sierra Leone.
-- 🌱 &nbsp; Currently learning Node.js, express.js and Fintrak’s Pi360 software.
+- 🌱 &nbsp; Currently learning M.E.R.N and Fintrak’s Pi360 software.
 - ✍️ &nbsp; Pursuing Graphic Design and Accounting Software(QuiickBooks) Installation and Database setup as hobbies/side hustles.
 
 - 🚀 [Unis](unis434.github.io/personal_resume/index.html)
