@@ -6,7 +6,7 @@ Hi, i'm [Unis](https://unis434.github.io/Personal_Resume/index.html), a passiona
 I am also an Accountant, Business Performance Analyst, and an Open-Source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-Today's Date: 9th July, 2022.
+Today's Date: 10th July, 2022.
     
 - 🤔 &nbsp; Exploring new technologies and developing software/website solutions.
 - 🎓 &nbsp; Studied BSc. Honors In Applied Accounting at the Institute of Public Administration & Management (IPAM).
