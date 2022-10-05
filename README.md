@@ -5,13 +5,13 @@ Hi, i'm [Unis](https://unis434.github.io/Personal_Resume/index.html), a passiona
 
 I am also an Accountant, Business Performance Analyst, and an Open-Source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-Today's Date: 15th August, 2022.
+Today's Date: 05th October, 2022.
     
 - 🤔 &nbsp; Exploring new technologies and developing software/website solutions.
 - 🎓 &nbsp; Studied BSc. Honors In Applied Accounting at the Institute of Public Administration & Management (IPAM).
 - 💼 &nbsp; Working as a Business Performance Analyst at FBNBank Sierra Leone.
-- 🌱 &nbsp; Currently learning M.E.R.N and Fintrak’s Pi360 software.
-- ✍️ &nbsp; Pursuing Graphic Design and Accounting Software(QuiickBooks) Installation and Database setup as hobbies/side hustles.
+- 🌱 &nbsp; I'm now an ALX Student, syuding as a full-stack software engineer.
+- ✍️ &nbsp; Pursuing Graphic Design, Website Ddevelopment, Accounting Software Installation and Database setup as hobbies/side hustles.
 
 - 🚀 [Unis](unis434.github.io/personal_resume/index.html)
 
