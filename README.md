@@ -1,7 +1,7 @@
 # 🚀 about 
 ![](https://visitor-badge.glitch.me/badge?page_id=unis434.unis434)
 <br>
-Hi, i'm [Unis](https://unis434.github.io/Personal_Resume/index.html), a passionate practicing full stack web developer and a freelance website developer and an accounting software specialist from Sierra Leone. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm [Unis](https://unis434.github.io/Personal_Resume/index.html), a passionate practicing full stack web developer and a freelance software developer and an accounting software specialist from Sierra Leone. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an Accountant, Business Performance Analyst, and an Open-Source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
