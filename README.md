@@ -5,13 +5,7 @@ Hi, i'm [Unis](https://unis434.github.io/Personal_Resume/index.html), a passiona
 
 I am also an Accountant, Business Performance Analyst, and an Open-Source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-Today's Date: [
-    { "command": "insert_snippet", "args": {"contents": "Date: $1\nTime: $2\nSomething else: $0"} },
-    { "command": "insert_date", "args": {"format": "%x"} },
-    { "command": "next_field" },
-    { "command": "insert_date", "args": {"format": "%X"} },
-    { "command": "next_field" }
-]
+Today's Date: "`r format(Sys.time(), '%d %B, %Y')`"
     
 - 🤔 &nbsp; Exploring new technologies and developing software/website solutions.
 - 🎓 &nbsp; Studied BSc. Honors In Applied Accounting at the Institute of Public Administration & Management (IPAM).
