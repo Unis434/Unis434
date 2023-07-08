@@ -14,7 +14,7 @@ or [![Gmail Badge](https://img.shields.io/badge/-unisk434@gmail.com-c14438?style
 
 - 🌱  Follow me :&nbsp; on [![GitHub followers](https://img.shields.io/github/followers/unis434?label=Follow&style=social)](https://github.com/unis434/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-Corporate_G_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/Corporate_)
 and be a part of my journey... and See if I can make it or not!
-- 🤝 Connect with me : &nbsp; ❤️  [![Linkedin Badge](https://img.shields.io/badge/-Unisa Kamara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/unisk434//)
+- 🤝 Connect with me : &nbsp; ❤️  [![Linkedin Badge](https://img.shields.io/badge/-Unisa_Kamara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/)
 
 - 🚀 [Unis](unis434.github.io/personal_resume/index.html)
 
