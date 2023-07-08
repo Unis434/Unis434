@@ -1,7 +1,7 @@
 # 🚀 about 
 ![](https://visitor-badge.glitch.me/badge?page_id=unis434.unis434)
 <br>
-Hi, i'm [Unis](https://unis434.github.io/Personal_Resume/index.html), I'm a financial accountant with a passion for programming. My expertise lies in delivering innovative financial solutions through automation and custom software development. With a strong background in finance and advanced programming skills, I streamline operations and enhance data analysis.
+Hi, I'm [Unis](https://unis434.github.io/Personal_Resume/index.html), a financial accountant with a passion for programming. My expertise lies in delivering innovative financial solutions through automation and custom software development. With a strong background in finance and advanced programming skills, I streamline operations and enhance data analysis.
 
 
 Today's Date: 
@@ -12,8 +12,9 @@ Today's Date:
 - 💼 Offer work : &nbsp; Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Unis_Kamara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/aman-atg/](https://www.linkedin.com/in/unisk434/))]([https://www.linkedin.com/in/aman-atg/](https://www.linkedin.com/in/unisk434/))
 or [![Gmail Badge](https://img.shields.io/badge/-unisk434@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:unisk434@gmail.com)](mailto:unisk434@gmail.com)
 
-- 🌱 &nbsp; I'm an ALX Graduate Student, studied backend software engineer.
-- ✍️ &nbsp; Pursuing Graphic Design, Website Ddevelopment, Accounting Software Installation and Database setup as hobbies/side hustles.
+- 🌱  Follow me :&nbsp; on [![GitHub followers](https://img.shields.io/github/followers/unis434?label=Follow&style=social)](https://github.com/unis434/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-Corporate_G_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/Corporate_)
+and be a part of my journey... and See if I can make it or not!
+- 🤝 Connect with me : &nbsp; ❤️  [![Linkedin Badge](https://img.shields.io/badge/-Unisa Kamara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/unisk434//)
 
 - 🚀 [Unis](unis434.github.io/personal_resume/index.html)
 
@@ -66,17 +67,7 @@ or [![Gmail Badge](https://img.shields.io/badge/-unisk434@gmail.com-c14438?style
 
 
 
-
-
-
-❤️ Follow me : on [![GitHub followers](https://img.shields.io/github/followers/aman-atg?label=Follow&style=social)](https://github.com/aman-atg/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@aman_atg-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/aman_atg)
-and be a part of my journey... and See if I can make it or not!
-
-❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/)
-
 <hr/>
-
-⭐️ From [aman-atg](https://github.com/aman-atg)
 
 
 ## 🚧 My Projects
