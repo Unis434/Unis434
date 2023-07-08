@@ -1,11 +1,10 @@
 # 🚀 about 
 ![](https://visitor-badge.glitch.me/badge?page_id=unis434.unis434)
 <br>
-Hi, i'm [Unis](https://unis434.github.io/Personal_Resume/index.html), a passionate practicing full stack web developer and a freelance software developer and an accounting software specialist from Sierra Leone. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm [Unis](https://unis434.github.io/Personal_Resume/index.html), a dedicated financial accountant who is also passionate about programming. I bring a unique combination of expertise in finance and technology, allowing me to provide comprehensive financial solutions using my programming skills. With a deep understanding of accounting principles and financial analysis, coupled with advanced programming knowledge, I deliver innovative and efficient financial solutions that drive business growth and maximize profitability. I excel in automating financial processes, developing financial models, and creating custom software tools to streamline operations and enhance data analysis. With my experience in financial accounting, programming, and freelance consulting, I am equipped to provide efficient and technology-driven financial solutions to organizations seeking to optimize their financial operations.
 
-I am also an Accountant, Business Performance Analyst, and an Open-Source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-Today's Date: "`r format(Sys.time(), '%d %B, %Y')`"
+Today's Date: 
     
 - 🤔 &nbsp; Exploring new technologies and developing software/website solutions.
 - 🎓 &nbsp; Studied BSc. Honors In Applied Accounting at the Institute of Public Administration & Management (IPAM).
