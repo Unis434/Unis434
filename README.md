@@ -1,16 +1,17 @@
 # 🚀 about 
 ![](https://visitor-badge.glitch.me/badge?page_id=unis434.unis434)
 <br>
-Hi, i'm [Unis](https://unis434.github.io/Personal_Resume/index.html),
-
-I'm a financial accountant with a passion for programming. My expertise lies in delivering innovative financial solutions through automation and custom software development. With a strong background in finance and advanced programming skills, I streamline operations and enhance data analysis.
+Hi, i'm [Unis](https://unis434.github.io/Personal_Resume/index.html), I'm a financial accountant with a passion for programming. My expertise lies in delivering innovative financial solutions through automation and custom software development. With a strong background in finance and advanced programming skills, I streamline operations and enhance data analysis.
 
 
 Today's Date: 
     
-- 🤔 &nbsp;(Give me your money 💰) So that I can upgrade my slow Laptop 🥺😌... [![Donate](https://img.shields.io/badge/$$-Support-green.svg?style=flat)](https://paypal.me/amanatg) 
-- 🎓 &nbsp; Studied BSc. Honors In Applied Accounting at the Institute of Public Administration & Management (IPAM).
-- 💼 &nbsp; Working as a Finance Business Partner and a Financial Planning and Analysis Analyst in Sierra Leone.
+- 💰 Support Me: &nbsp;(Give me your money) So that I can upgrade my slow Laptop 🥺😌... [![Donate](https://img.shields.io/badge/$$-Support-green.svg?style=flat)](https://paypal.me/unis96) 
+- 🎓 Mentor Me: &nbsp; If you are one of those Saints 😇 who try to help their juniors then you can always leave a msg here [![Telegram Badge](https://img.shields.io/badge/-Unis_Kamara-2399ff?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/uniskamara/)](https://t.me/uniskamara)
+
+- 💼 Offer work : &nbsp; Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Unis_Kamara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/aman-atg/](https://www.linkedin.com/in/unisk434/))]([https://www.linkedin.com/in/aman-atg/](https://www.linkedin.com/in/unisk434/))
+or [![Gmail Badge](https://img.shields.io/badge/-unisk434@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:unisk434@gmail.com)](mailto:unisk434@gmail.com)
+
 - 🌱 &nbsp; I'm an ALX Graduate Student, studied backend software engineer.
 - ✍️ &nbsp; Pursuing Graphic Design, Website Ddevelopment, Accounting Software Installation and Database setup as hobbies/side hustles.
 
@@ -63,16 +64,10 @@ Today's Date:
     <img height="300px" src="https://metrics.lecoq.io/unis434?template=classic&config.timezone=Asia%2FShanghai"/>
 </div>
 
-### 👣 Next Steps
 
-_Since you don't want to leave my profile just yet! Here are a few things you can do :_
 
-❤️ Support me : (Give me your money 💰) So that I can upgrade my slow Laptop 🥺😌... [![Donate](https://img.shields.io/badge/$$-Support-green.svg?style=flat)](https://paypal.me/amanatg)
 
-❤️ Mentor me : If you are one of those Saints 😇 who try to help their juniors then you can always leave a msg here [![Telegram Badge](https://img.shields.io/badge/-Aman_Ansari-2399ff?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/amanatg0/)](https://t.me/amanatg0)
 
-❤️ Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/)
-or [![Gmail Badge](https://img.shields.io/badge/-aman.atg001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aman.atg001@gmail.com)](mailto:aman.atg001@gmail.com)
 
 ❤️ Follow me : on [![GitHub followers](https://img.shields.io/github/followers/aman-atg?label=Follow&style=social)](https://github.com/aman-atg/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@aman_atg-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/aman_atg)
 and be a part of my journey... and See if I can make it or not!
