@@ -1,7 +1,7 @@
 # 🚀 about 
 ![](https://visitor-badge.glitch.me/badge?page_id=unis434.unis434)
 <br>
-Hi, I'm [Unis](https://unis434.github.io/Personal_Resume/index.html), a financial accountant with a passion for programming. My expertise lies in delivering innovative financial solutions through automation and custom software development. With a strong background in finance and advanced programming skills, I streamline operations and enhance data analysis.
+Hi, I'm [Unis](https://unis434.github.io/Personal_Resume/index.html), a financial professional with a passion for programming. My expertise lies in delivering innovative financial solutions through automation and custom software development. With a strong background in finance and advanced programming skills, I streamline operations and enhance data analysis.
 
 
 Today's Date: 
