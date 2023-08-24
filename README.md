@@ -1,7 +1,7 @@
 # 🚀 about 
 ![](https://visitor-badge.glitch.me/badge?page_id=unis434.unis434)
 <br>
-Hi, I'm [Unis](https://unis434.github.io/Personal_Resume/index.html), a finance professional with a passion for programming. My expertise lies in delivering innovative financial solutions through automation and custom software development. With a strong background in finance and programming skills, I streamline operations and enhance data analysis.
+Hi, I'm [Unisa](https://unis434.github.io/Personal_Resume/index.html), a finance professional with a passion for programming. My expertise lies in delivering innovative financial solutions through automation and custom software development. With a strong background in finance and programming skills, I streamline operations and enhance data analysis.
 
 
 Today's Date: 
@@ -9,7 +9,7 @@ Today's Date:
 - 💰 Support Me: &nbsp; <a href='https://ko-fi.com/I2I1N0DOZ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 🥺😌... [![Donate](https://img.shields.io/badge/$$-Support-green.svg?style=flat)](https://paypal.me/unis96) 
 - 🎓 Mentor Me: &nbsp; If you are one of those Saints 😇 who try to help their juniors then you can always leave a msg here [![Telegram Badge](https://img.shields.io/badge/-Unis_Kamara-2399ff?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/uniskamara/)](https://t.me/uniskamara)
 
-- 💼 Offer work : &nbsp; Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Unis_Kamara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/aman-atg/](https://www.linkedin.com/in/unisk434/))]([https://www.linkedin.com/in/aman-atg/](https://www.linkedin.com/in/unisk434/))
+- 💼 Offer work : &nbsp; Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Unisa_Kamara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/aman-atg/](https://www.linkedin.com/in/unisk434/))]([https://www.linkedin.com/in/aman-atg/](https://www.linkedin.com/in/unisk434/))
 or [![Gmail Badge](https://img.shields.io/badge/-unisk434@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:unisk434@gmail.com)](mailto:unisk434@gmail.com)
 
 - 🌱  Follow me :&nbsp; on [![GitHub followers](https://img.shields.io/github/followers/unis434?label=Follow&style=social)](https://github.com/unis434/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-Corporate_G_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/Corporate_)
